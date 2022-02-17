@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "facility":"COMPONENT_QUERY",
+   "prim":"27\/CAX1053253",
+   "bazaarurl":"https:\/\/bazaar.internal.ericsson.com\/b-view-component.php?componentid=955584",
+   "bisauth":null,
+   "cax_internal":null,
+   "category":null,
+   "cpe":null,
+   "crypto":"No Encryption",
+   "copyright":null,
+   "dscode":"DS4",
+   "download_url":"https:\/\/github.com\/apache\/commons-lang\/archive\/rel\/commons-lang-3.12.0.tar.gz",
+   "description":"Lang provides a host of helper utilities for the java. Lang API, notably String manipulation methods, basic numerical methods, object reflection, concurrency, creation and serialization and System properties.",
+   "eudate":null,
+   "ear":null,
+   "euclass":"NA",
+   "eccn_eu":"NA",
+   "eccn_us":"NA",
+   "functional_designation":"Apache Commons Lang (Commons Lang3)",
+   "functional_designation_extra":null,
+   "licenses":[
+      "FAL1159004\/11: Apache License 1.1 (Apache-1.1)",
+      "FAL1159004\/20: Apache License 2.0 (Apache-2.0)"
+   ],
+   "marketing_information_text":null,
+   "name":"Apache Commons Lang (Commons Lang3)",
+   "prcode":"PRA",
+   "programming_language":"Java",
+   "rstate_internal":"",
+   "recode":"",
+   "retext":"",
+   "rstate":"R1A",
+   "stako":"ESW2",
+   "stako_comment":null,
+   "security_protocols":"N\/A",
+   "security_protocols_notice":null,
+   "source_code_url":"https:\/\/lib.sw.ericsson.net\/lib\/artifacts\/65fb3cda-3aed-4091-a8b6-00b4e1367d82\/file",
+   "usclass":"NA",
+   "usdate":null,
+   "releaseDate":"2021\/3",
+   "url":"https:\/\/github.com\/apache\/commons-lang",
+   "version":"3.12.0",
+   "country":"US",
+   "symmetric":"Check 2400 document",
+   "asymmetric":"Check 2400 document",
+   "hash":"Check 2400 document"
 }
